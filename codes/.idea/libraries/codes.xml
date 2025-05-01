@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="codes">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BSSE1432_Lab01.zip!/" />
+      <root url="jar://$PROJECT_DIR$/BSSE1432_Lab06.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Lab09_BSSE1432.zip!/" />
+      <root url="jar://$PROJECT_DIR$/BSSE1432_LAB02.zip!/" />
+      <root url="jar://$PROJECT_DIR$/BSSE1432_Lab07.zip!/" />
+      <root url="jar://$PROJECT_DIR$/BSSE1432_Lab08.zip!/" />
+      <root url="jar://$PROJECT_DIR$/BSSE1432_LAB04.zip!/" />
+      <root url="jar://$PROJECT_DIR$/BSSE1432_LAB05.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

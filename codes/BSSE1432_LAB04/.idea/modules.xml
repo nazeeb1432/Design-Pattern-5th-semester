@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BSSE1432_LAB04.iml" filepath="$PROJECT_DIR$/.idea/BSSE1432_LAB04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Facade/Facade.iml" filepath="$PROJECT_DIR$/Facade/Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prototype_Facade/Prototype_Facade.iml" filepath="$PROJECT_DIR$/Prototype_Facade/Prototype_Facade.iml" />
+    </modules>
+  </component>
+</project>

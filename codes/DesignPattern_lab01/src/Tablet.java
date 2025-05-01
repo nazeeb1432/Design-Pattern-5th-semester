@@ -19,7 +19,7 @@ public class Tablet implements Device{
     }
 
     public void read(){
-        System.out.println("Reading an ebook in tablet "+this.model+(hasPencil?" With a pencil":"."));//ternary
+        System.out.println("Reading an ebook in tablet "+this.model+(hasPencil?" With a pencil":"."));//ternaryl
     }
 
     @Override

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Adapter Pattern/Adapter Pattern.iml" filepath="$PROJECT_DIR$/Adapter Pattern/Adapter Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BSSE1432_LAB02/BSSE1432_LAB02.iml" filepath="$PROJECT_DIR$/BSSE1432_LAB02/BSSE1432_LAB02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP_LAB02_Abstract_Factory/DP_LAB02_Abstract_Factory.iml" filepath="$PROJECT_DIR$/DP_LAB02_Abstract_Factory/DP_LAB02_Abstract_Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPattern_lab01/DesignPattern_lab01.iml" filepath="$PROJECT_DIR$/DesignPattern_lab01/DesignPattern_lab01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BSSE1432_LAB04/Facade/Facade.iml" filepath="$PROJECT_DIR$/BSSE1432_LAB04/Facade/Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Facade/Facade1.iml" filepath="$PROJECT_DIR$/Facade/Facade1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab05_Adapter/Lab05_Adapter.iml" filepath="$PROJECT_DIR$/Lab05_Adapter/Lab05_Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab06_DesignPattern/Lab06_DesignPattern.iml" filepath="$PROJECT_DIR$/Lab06_DesignPattern/Lab06_DesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab07_Miscellaneous/Lab07_Miscellaneous.iml" filepath="$PROJECT_DIR$/Lab07_Miscellaneous/Lab07_Miscellaneous.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab08/Lab08.iml" filepath="$PROJECT_DIR$/Lab08/Lab08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab09_BSSE1432/Lab09_BSSE1432.iml" filepath="$PROJECT_DIR$/Lab09_BSSE1432/Lab09_BSSE1432.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BSSE1432_LAB04/Prototype_Facade/Prototype_Facade.iml" filepath="$PROJECT_DIR$/BSSE1432_LAB04/Prototype_Facade/Prototype_Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prototype_Facade/Prototype_Facade1.iml" filepath="$PROJECT_DIR$/Prototype_Facade/Prototype_Facade1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/codes.iml" filepath="$PROJECT_DIR$/.idea/codes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refactoring-lab-nazeeb1432/refactoring-lab-nazeeb1432.iml" filepath="$PROJECT_DIR$/refactoring-lab-nazeeb1432/refactoring-lab-nazeeb1432.iml" />
+    </modules>
+  </component>
+</project>
